@@ -1,1 +1,3 @@
 # ReactNativeMobX
+
+yarn install
